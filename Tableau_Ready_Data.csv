@@ -1,0 +1,401 @@
+Drone_ID,Customer_Name,Model,QC_Type,QC_Result,Issue_Description,Maintenance_Cost,QC_Date,Maintenance_Duration_Hours,Employee_Name,Maintenance_Status,Flight_Test_Success,Battery_Health,Software_Version
+Drone-11,Customer 20,XTENDER P5,Flight-QC,Passed,Software Bug,1629,2024-10-25,11,Employee 8,In Progress,0,87,3.19.51-A70
+Drone-14,Customer 4,HoneyBadger,Flight-QC,Failed,Software Bug,1690,2024-10-02,28,Employee 13,Pending,1,88,3.19.43-A80
+Drone-4,Customer 18,TMP Rev-B,Post-Plastic-QC,Passed,Motor Failure,1690,2024-03-10,30,Employee 15,Pending,0,92,3.19.33-A16
+Drone-4,Customer 3,XTENDER P5,Flight-QC,Failed,Battery Issue,871,2024-07-28,30,Employee 18,In Progress,1,99,3.19.98-A12
+Drone-16,Customer 1,XTENDER P5,Flight-QC,Passed,Software Bug,251,2024-10-26,21,Employee 20,Pending,1,73,3.19.95-A99
+Drone-14,Customer 5,TMP Rev-B,Pre-Plastic-QC,Failed,Software Bug,678,2024-07-13,11,Employee 11,Pending,0,78,3.19.17-A11
+Drone-17,Customer 4,TMP Rev-B,Flight-QC,Passed,Battery Issue,1262,2024-01-18,26,Employee 3,Pending,1,68,3.19.66-A77
+Drone-17,Customer 9,PSIO-XTENDER V3P4,Flight-QC,Passed,No Issue,1732,2024-04-04,5,Employee 4,In Progress,0,60,3.19.39-A69
+Drone-20,Customer 9,TMP Rev-B,Flight-QC,Failed,No Issue,1924,2024-02-02,18,Employee 2,Completed,0,85,3.19.0-A93
+Drone-17,Customer 20,TMP Rev-B,Pre-Plastic-QC,Failed,No Issue,684,2024-04-11,2,Employee 3,Completed,1,75,3.19.17-A59
+Drone-8,Customer 19,HoneyBadger,Flight-QC,Failed,Motor Failure,562,2024-08-16,11,Employee 7,Completed,1,51,3.19.88-A18
+Drone-19,Customer 19,PSIO-XTENDER V3P4,Flight-QC,Passed,GPS Failure,840,2024-08-22,15,Employee 20,In Progress,1,57,3.19.79-A41
+Drone-16,Customer 13,PSIO-XTENDER V3P4,Pre-Plastic-QC,Failed,GPS Failure,1520,2024-12-21,48,Employee 3,Pending,1,94,3.19.83-A81
+Drone-10,Customer 18,TMP Rev-B,Pre-Plastic-QC,Failed,No Issue,1994,2024-04-11,14,Employee 5,Completed,0,81,3.19.7-A19
+Drone-14,Customer 14,XTENDER P5,Flight-QC,Passed,Battery Issue,408,2024-09-05,21,Employee 4,In Progress,0,90,3.19.54-A86
+Drone-15,Customer 6,PSIO-XTENDER V3P4,Pre-Plastic-QC,Failed,GPS Failure,1651,2024-12-29,17,Employee 16,In Progress,0,80,3.19.8-A34
+Drone-2,Customer 19,HoneyBadger,Pre-Plastic-QC,Passed,No Issue,724,2024-02-21,26,Employee 17,In Progress,0,85,3.19.93-A27
+Drone-8,Customer 7,HoneyBadger,Flight-QC,Passed,GPS Failure,1214,2024-12-20,32,Employee 2,Completed,0,69,3.19.7-A64
+Drone-17,Customer 4,PSIO-XTENDER V3P4,Post-Plastic-QC,Failed,Battery Issue,609,2024-07-31,48,Employee 12,Completed,1,71,3.19.79-A27
+Drone-9,Customer 9,HoneyBadger,Flight-QC,Failed,Motor Failure,1443,2024-08-19,2,Employee 12,Completed,0,61,3.19.35-A52
+Drone-6,Customer 9,HoneyBadger,Pre-Plastic-QC,Failed,Software Bug,1591,2024-05-08,44,Employee 9,In Progress,0,60,3.19.50-A18
+Drone-10,Customer 12,TMP Rev-B,Flight-QC,Passed,GPS Failure,1677,2024-03-05,48,Employee 20,In Progress,1,75,3.19.77-A83
+Drone-12,Customer 16,XTENDER P5,Post-Plastic-QC,Passed,Motor Failure,938,2024-08-27,14,Employee 19,In Progress,0,94,3.19.90-A69
+Drone-7,Customer 1,XTENDER P5,Flight-QC,Failed,GPS Failure,1743,2024-08-31,46,Employee 20,Completed,0,93,3.19.55-A70
+Drone-1,Customer 7,HoneyBadger,Flight-QC,Failed,Battery Issue,484,2024-11-14,29,Employee 3,Pending,1,94,3.19.38-A29
+Drone-15,Customer 18,PSIO-XTENDER V3P4,Flight-QC,Passed,Motor Failure,1218,2024-04-13,22,Employee 13,In Progress,1,74,3.19.67-A49
+Drone-17,Customer 7,TMP Rev-B,Pre-Plastic-QC,Passed,Motor Failure,726,2024-12-25,8,Employee 7,Pending,1,61,3.19.34-A45
+Drone-3,Customer 11,TMP Rev-B,Pre-Plastic-QC,Failed,No Issue,1574,2024-12-28,13,Employee 14,In Progress,1,96,3.19.40-A10
+Drone-15,Customer 13,PSIO-XTENDER V3P4,Flight-QC,Passed,No Issue,1973,2024-07-03,36,Employee 12,Pending,1,68,3.19.91-A25
+Drone-10,Customer 17,XTENDER P5,Flight-QC,Failed,Motor Failure,1252,2024-07-14,14,Employee 13,Pending,0,87,3.19.80-A73
+Drone-12,Customer 8,TMP Rev-B,Flight-QC,Failed,Software Bug,1964,2024-12-05,20,Employee 15,In Progress,1,82,3.19.79-A27
+Drone-20,Customer 4,XTENDER P5,Post-Plastic-QC,Failed,Battery Issue,646,2024-11-20,33,Employee 16,Pending,1,98,3.19.66-A44
+Drone-17,Customer 10,XTENDER P5,Post-Plastic-QC,Passed,Software Bug,807,2024-12-09,23,Employee 5,Pending,1,77,3.19.16-A22
+Drone-3,Customer 4,XTENDER P5,Flight-QC,Passed,Motor Failure,1545,2024-01-30,45,Employee 12,Pending,1,84,3.19.74-A46
+Drone-12,Customer 7,HoneyBadger,Post-Plastic-QC,Passed,Battery Issue,1816,2024-07-12,5,Employee 2,Completed,0,97,3.19.19-A98
+Drone-10,Customer 18,PSIO-XTENDER V3P4,Pre-Plastic-QC,Failed,GPS Failure,1595,2024-05-01,45,Employee 12,Pending,0,88,3.19.24-A24
+Drone-7,Customer 15,XTENDER P5,Post-Plastic-QC,Failed,GPS Failure,661,2024-09-15,18,Employee 10,In Progress,1,96,3.19.57-A96
+Drone-12,Customer 11,XTENDER P5,Flight-QC,Passed,Motor Failure,1897,2024-04-29,39,Employee 2,In Progress,1,98,3.19.20-A65
+Drone-12,Customer 2,TMP Rev-B,Pre-Plastic-QC,Passed,GPS Failure,1770,2024-12-14,33,Employee 13,In Progress,0,60,3.19.4-A13
+Drone-13,Customer 19,TMP Rev-B,Pre-Plastic-QC,Passed,Motor Failure,1384,2024-07-30,20,Employee 11,Completed,0,51,3.19.58-A55
+Drone-8,Customer 16,TMP Rev-B,Post-Plastic-QC,Passed,Software Bug,626,2024-11-05,24,Employee 13,Completed,0,68,3.19.47-A96
+Drone-9,Customer 6,HoneyBadger,Post-Plastic-QC,Passed,Software Bug,1123,2024-01-09,40,Employee 2,Completed,0,62,3.19.18-A61
+Drone-6,Customer 1,XTENDER P5,Post-Plastic-QC,Failed,Battery Issue,1065,2024-08-27,41,Employee 11,In Progress,0,81,3.19.53-A57
+Drone-12,Customer 5,HoneyBadger,Flight-QC,Failed,Battery Issue,1563,2024-09-07,23,Employee 7,In Progress,1,61,3.19.70-A70
+Drone-7,Customer 1,HoneyBadger,Post-Plastic-QC,Passed,GPS Failure,493,2024-06-20,42,Employee 6,In Progress,1,67,3.19.99-A50
+Drone-1,Customer 2,TMP Rev-B,Post-Plastic-QC,Failed,Battery Issue,604,2024-05-20,31,Employee 17,Completed,1,87,3.19.14-A10
+Drone-7,Customer 8,TMP Rev-B,Pre-Plastic-QC,Passed,Software Bug,907,2024-06-16,28,Employee 10,In Progress,1,82,3.19.3-A76
+Drone-20,Customer 11,PSIO-XTENDER V3P4,Pre-Plastic-QC,Passed,Battery Issue,1569,2024-04-04,42,Employee 9,Completed,1,66,3.19.34-A38
+Drone-5,Customer 20,TMP Rev-B,Pre-Plastic-QC,Passed,Battery Issue,168,2024-07-30,16,Employee 19,Completed,0,87,3.19.98-A57
+Drone-3,Customer 2,PSIO-XTENDER V3P4,Pre-Plastic-QC,Passed,GPS Failure,586,2024-02-26,1,Employee 13,In Progress,0,55,3.19.78-A57
+Drone-16,Customer 10,TMP Rev-B,Post-Plastic-QC,Passed,Motor Failure,830,2024-08-29,3,Employee 5,Pending,0,79,3.19.79-A59
+Drone-15,Customer 11,XTENDER P5,Pre-Plastic-QC,Failed,Battery Issue,405,2024-03-15,24,Employee 16,Completed,0,65,3.19.59-A73
+Drone-6,Customer 10,PSIO-XTENDER V3P4,Flight-QC,Passed,Software Bug,963,2024-01-09,14,Employee 2,Pending,0,55,3.19.94-A90
+Drone-11,Customer 14,TMP Rev-B,Flight-QC,Failed,Battery Issue,1378,2024-02-28,26,Employee 1,Completed,0,97,3.19.18-A99
+Drone-17,Customer 5,XTENDER P5,Post-Plastic-QC,Failed,No Issue,1022,2024-09-09,32,Employee 3,Pending,1,81,3.19.96-A86
+Drone-13,Customer 8,XTENDER P5,Flight-QC,Failed,Motor Failure,1428,2024-08-29,9,Employee 18,In Progress,0,63,3.19.10-A34
+Drone-5,Customer 9,PSIO-XTENDER V3P4,Pre-Plastic-QC,Failed,GPS Failure,106,2024-03-22,27,Employee 14,Pending,1,91,3.19.78-A88
+Drone-15,Customer 10,XTENDER P5,Post-Plastic-QC,Passed,Battery Issue,879,2024-07-03,25,Employee 2,In Progress,1,82,3.19.76-A59
+Drone-3,Customer 1,XTENDER P5,Flight-QC,Passed,Battery Issue,1262,2024-05-23,32,Employee 6,Completed,1,86,3.19.33-A92
+Drone-16,Customer 19,XTENDER P5,Flight-QC,Failed,Battery Issue,269,2024-06-02,28,Employee 12,Pending,1,60,3.19.19-A90
+Drone-20,Customer 4,TMP Rev-B,Flight-QC,Passed,GPS Failure,1667,2024-07-28,37,Employee 11,Completed,1,97,3.19.29-A40
+Drone-12,Customer 1,HoneyBadger,Post-Plastic-QC,Passed,GPS Failure,328,2024-10-07,40,Employee 7,In Progress,1,74,3.19.23-A32
+Drone-20,Customer 20,HoneyBadger,Post-Plastic-QC,Failed,Motor Failure,150,2024-06-10,31,Employee 15,Pending,1,57,3.19.12-A71
+Drone-6,Customer 13,XTENDER P5,Post-Plastic-QC,Passed,Software Bug,1730,2024-05-25,7,Employee 5,Pending,0,73,3.19.98-A59
+Drone-19,Customer 1,XTENDER P5,Post-Plastic-QC,Failed,Motor Failure,174,2024-03-08,15,Employee 13,Pending,0,57,3.19.59-A34
+Drone-13,Customer 19,TMP Rev-B,Flight-QC,Passed,Motor Failure,1894,2024-04-18,32,Employee 12,Completed,1,79,3.19.90-A61
+Drone-8,Customer 14,HoneyBadger,Post-Plastic-QC,Failed,Software Bug,954,2024-06-10,5,Employee 13,In Progress,1,60,3.19.87-A20
+Drone-14,Customer 10,PSIO-XTENDER V3P4,Pre-Plastic-QC,Passed,Software Bug,135,2024-07-31,22,Employee 12,Completed,1,75,3.19.45-A58
+Drone-17,Customer 20,XTENDER P5,Post-Plastic-QC,Passed,Software Bug,712,2024-08-22,4,Employee 3,In Progress,0,92,3.19.28-A41
+Drone-17,Customer 9,TMP Rev-B,Flight-QC,Failed,GPS Failure,128,2024-12-09,20,Employee 2,Pending,0,66,3.19.9-A53
+Drone-12,Customer 8,PSIO-XTENDER V3P4,Post-Plastic-QC,Passed,Software Bug,193,2024-02-01,35,Employee 7,Pending,1,97,3.19.26-A91
+Drone-11,Customer 16,TMP Rev-B,Pre-Plastic-QC,Failed,Motor Failure,549,2024-03-25,44,Employee 7,Completed,0,91,3.19.59-A20
+Drone-4,Customer 8,PSIO-XTENDER V3P4,Pre-Plastic-QC,Failed,Software Bug,1627,2024-06-19,47,Employee 20,Pending,1,92,3.19.76-A95
+Drone-14,Customer 12,TMP Rev-B,Flight-QC,Passed,Software Bug,1265,2024-06-15,12,Employee 10,Pending,1,82,3.19.93-A58
+Drone-13,Customer 6,HoneyBadger,Post-Plastic-QC,Passed,Software Bug,1993,2024-08-18,31,Employee 8,Completed,0,60,3.19.41-A81
+Drone-6,Customer 13,HoneyBadger,Post-Plastic-QC,Passed,Battery Issue,252,2024-03-21,18,Employee 1,Completed,1,54,3.19.26-A77
+Drone-6,Customer 11,TMP Rev-B,Flight-QC,Passed,Battery Issue,180,2024-02-03,34,Employee 5,Pending,1,61,3.19.26-A32
+Drone-7,Customer 14,XTENDER P5,Post-Plastic-QC,Failed,GPS Failure,1440,2024-05-11,41,Employee 8,Completed,0,65,3.19.19-A99
+Drone-1,Customer 6,TMP Rev-B,Pre-Plastic-QC,Passed,Motor Failure,1271,2024-02-11,32,Employee 2,Completed,1,56,3.19.81-A40
+Drone-10,Customer 7,XTENDER P5,Pre-Plastic-QC,Failed,Motor Failure,998,2024-11-02,5,Employee 7,In Progress,1,56,3.19.99-A22
+Drone-17,Customer 1,TMP Rev-B,Post-Plastic-QC,Passed,Battery Issue,1305,2024-02-18,26,Employee 4,Completed,1,76,3.19.82-A18
+Drone-1,Customer 4,PSIO-XTENDER V3P4,Post-Plastic-QC,Passed,GPS Failure,1182,2024-05-03,18,Employee 19,Pending,0,69,3.19.52-A68
+Drone-17,Customer 2,HoneyBadger,Pre-Plastic-QC,Failed,Motor Failure,876,2024-03-26,23,Employee 18,Pending,1,53,3.19.2-A76
+Drone-15,Customer 5,XTENDER P5,Pre-Plastic-QC,Failed,Battery Issue,1697,2024-09-18,35,Employee 3,In Progress,0,90,3.19.36-A27
+Drone-20,Customer 19,XTENDER P5,Post-Plastic-QC,Failed,GPS Failure,1015,2024-07-06,26,Employee 9,Completed,0,72,3.19.78-A28
+Drone-1,Customer 12,XTENDER P5,Post-Plastic-QC,Failed,Motor Failure,1114,2024-11-29,43,Employee 19,Completed,1,58,3.19.8-A48
+Drone-11,Customer 19,HoneyBadger,Flight-QC,Failed,Motor Failure,907,2024-08-23,20,Employee 17,Pending,1,92,3.19.96-A93
+Drone-19,Customer 3,HoneyBadger,Flight-QC,Passed,Battery Issue,213,2024-10-11,12,Employee 6,In Progress,0,55,3.19.0-A26
+Drone-8,Customer 6,HoneyBadger,Post-Plastic-QC,Failed,Motor Failure,787,2024-09-21,37,Employee 10,Pending,0,77,3.19.68-A71
+Drone-17,Customer 6,HoneyBadger,Pre-Plastic-QC,Failed,Motor Failure,1522,2024-06-05,45,Employee 9,In Progress,1,65,3.19.95-A97
+Drone-5,Customer 11,HoneyBadger,Pre-Plastic-QC,Failed,No Issue,1956,2024-03-11,35,Employee 12,In Progress,1,54,3.19.28-A70
+Drone-13,Customer 4,XTENDER P5,Post-Plastic-QC,Passed,GPS Failure,725,2024-10-09,23,Employee 13,Completed,0,88,3.19.82-A92
+Drone-7,Customer 11,HoneyBadger,Post-Plastic-QC,Passed,Software Bug,805,2024-03-09,25,Employee 4,Completed,0,63,3.19.83-A75
+Drone-20,Customer 12,TMP Rev-B,Pre-Plastic-QC,Passed,GPS Failure,330,2024-09-10,12,Employee 10,In Progress,0,88,3.19.26-A32
+Drone-14,Customer 2,XTENDER P5,Pre-Plastic-QC,Failed,Battery Issue,304,2024-01-08,1,Employee 1,Pending,1,81,3.19.48-A35
+Drone-17,Customer 8,XTENDER P5,Pre-Plastic-QC,Passed,Motor Failure,1403,2024-05-11,43,Employee 19,Pending,1,55,3.19.70-A26
+Drone-7,Customer 13,HoneyBadger,Post-Plastic-QC,Failed,No Issue,245,2024-10-17,2,Employee 11,Completed,1,98,3.19.79-A95
+Drone-12,Customer 10,TMP Rev-B,Pre-Plastic-QC,Failed,GPS Failure,1964,2024-12-18,17,Employee 6,Completed,0,99,3.19.53-A79
+Drone-7,Customer 6,TMP Rev-B,Post-Plastic-QC,Passed,Software Bug,1495,2024-11-01,45,Employee 12,Pending,1,92,3.19.68-A65
+Drone-8,Customer 2,TMP Rev-B,Flight-QC,Failed,Battery Issue,1824,2024-01-04,47,Employee 8,Completed,1,94,3.19.48-A74
+Drone-7,Customer 6,HoneyBadger,Pre-Plastic-QC,Failed,Battery Issue,1884,2024-03-01,24,Employee 17,Pending,0,90,3.19.97-A13
+Drone-12,Customer 8,TMP Rev-B,Pre-Plastic-QC,Failed,GPS Failure,1369,2024-09-05,35,Employee 2,Completed,0,54,3.19.1-A55
+Drone-7,Customer 18,TMP Rev-B,Pre-Plastic-QC,Passed,GPS Failure,978,2024-06-16,26,Employee 1,Completed,0,68,3.19.10-A23
+Drone-19,Customer 2,XTENDER P5,Post-Plastic-QC,Failed,GPS Failure,108,2024-12-05,7,Employee 19,In Progress,0,56,3.19.73-A56
+Drone-12,Customer 12,HoneyBadger,Flight-QC,Failed,Software Bug,709,2024-11-23,34,Employee 7,Completed,1,89,3.19.68-A16
+Drone-17,Customer 8,TMP Rev-B,Pre-Plastic-QC,Failed,No Issue,1958,2024-05-30,31,Employee 11,Completed,1,60,3.19.71-A61
+Drone-13,Customer 5,HoneyBadger,Post-Plastic-QC,Passed,GPS Failure,1853,2024-03-01,44,Employee 5,Pending,0,94,3.19.37-A44
+Drone-17,Customer 10,PSIO-XTENDER V3P4,Flight-QC,Failed,GPS Failure,406,2024-11-01,2,Employee 14,Completed,1,93,3.19.4-A82
+Drone-11,Customer 16,PSIO-XTENDER V3P4,Flight-QC,Passed,Battery Issue,1558,2024-09-09,2,Employee 17,Pending,1,56,3.19.92-A32
+Drone-7,Customer 18,TMP Rev-B,Pre-Plastic-QC,Passed,No Issue,257,2024-03-23,17,Employee 5,In Progress,0,71,3.19.32-A35
+Drone-4,Customer 3,XTENDER P5,Post-Plastic-QC,Failed,Software Bug,418,2024-06-24,31,Employee 18,Pending,0,57,3.19.95-A59
+Drone-5,Customer 9,PSIO-XTENDER V3P4,Post-Plastic-QC,Failed,No Issue,301,2024-06-12,12,Employee 13,Pending,0,51,3.19.89-A72
+Drone-18,Customer 4,HoneyBadger,Post-Plastic-QC,Passed,GPS Failure,1859,2024-07-24,25,Employee 15,Completed,0,85,3.19.64-A20
+Drone-20,Customer 7,HoneyBadger,Flight-QC,Passed,Software Bug,354,2024-07-02,35,Employee 9,Pending,1,60,3.19.62-A42
+Drone-5,Customer 1,XTENDER P5,Flight-QC,Failed,Software Bug,123,2024-06-07,34,Employee 9,Completed,0,76,3.19.81-A53
+Drone-10,Customer 16,XTENDER P5,Flight-QC,Passed,Motor Failure,680,2024-04-13,16,Employee 2,Pending,0,80,3.19.92-A99
+Drone-12,Customer 3,PSIO-XTENDER V3P4,Pre-Plastic-QC,Passed,No Issue,1920,2024-10-11,4,Employee 2,Completed,0,76,3.19.59-A90
+Drone-5,Customer 8,HoneyBadger,Pre-Plastic-QC,Passed,Motor Failure,1421,2024-02-12,39,Employee 20,Completed,1,58,3.19.34-A11
+Drone-14,Customer 1,XTENDER P5,Flight-QC,Failed,Battery Issue,1447,2024-08-29,34,Employee 10,Pending,0,77,3.19.28-A68
+Drone-6,Customer 1,XTENDER P5,Pre-Plastic-QC,Passed,Battery Issue,1837,2024-12-09,34,Employee 13,Pending,1,61,3.19.1-A89
+Drone-16,Customer 2,XTENDER P5,Flight-QC,Passed,Motor Failure,1551,2024-09-24,24,Employee 16,Pending,1,51,3.19.86-A30
+Drone-9,Customer 6,HoneyBadger,Post-Plastic-QC,Passed,Motor Failure,357,2024-03-06,30,Employee 6,Pending,1,62,3.19.53-A90
+Drone-19,Customer 11,HoneyBadger,Flight-QC,Passed,GPS Failure,1453,2024-01-02,13,Employee 19,Pending,0,91,3.19.26-A41
+Drone-18,Customer 19,PSIO-XTENDER V3P4,Post-Plastic-QC,Failed,Motor Failure,432,2024-10-03,6,Employee 18,Completed,1,73,3.19.95-A35
+Drone-10,Customer 16,HoneyBadger,Pre-Plastic-QC,Failed,Battery Issue,1386,2024-04-18,17,Employee 4,Completed,1,93,3.19.59-A43
+Drone-3,Customer 16,PSIO-XTENDER V3P4,Flight-QC,Failed,Battery Issue,845,2024-02-11,11,Employee 13,In Progress,0,69,3.19.89-A33
+Drone-10,Customer 12,TMP Rev-B,Pre-Plastic-QC,Passed,Software Bug,1382,2024-09-05,34,Employee 11,Pending,0,59,3.19.23-A27
+Drone-18,Customer 1,XTENDER P5,Pre-Plastic-QC,Passed,Motor Failure,289,2024-06-21,33,Employee 8,In Progress,0,60,3.19.20-A16
+Drone-7,Customer 11,HoneyBadger,Post-Plastic-QC,Failed,Motor Failure,135,2024-05-13,31,Employee 19,Pending,0,94,3.19.16-A70
+Drone-7,Customer 15,HoneyBadger,Post-Plastic-QC,Failed,GPS Failure,1331,2024-03-26,41,Employee 15,Completed,1,84,3.19.42-A90
+Drone-20,Customer 8,HoneyBadger,Post-Plastic-QC,Failed,GPS Failure,133,2024-11-19,32,Employee 17,Completed,0,100,3.19.82-A27
+Drone-5,Customer 8,HoneyBadger,Flight-QC,Failed,Battery Issue,1711,2024-12-30,22,Employee 11,In Progress,0,89,3.19.29-A21
+Drone-7,Customer 5,TMP Rev-B,Post-Plastic-QC,Failed,Battery Issue,131,2024-08-21,25,Employee 8,Pending,1,79,3.19.35-A80
+Drone-5,Customer 7,TMP Rev-B,Post-Plastic-QC,Passed,GPS Failure,1444,2024-02-28,38,Employee 16,In Progress,0,98,3.19.7-A95
+Drone-7,Customer 11,XTENDER P5,Post-Plastic-QC,Failed,Motor Failure,1411,2024-09-04,16,Employee 18,Pending,1,97,3.19.21-A39
+Drone-14,Customer 6,TMP Rev-B,Pre-Plastic-QC,Failed,Motor Failure,1687,2024-11-05,46,Employee 20,In Progress,1,87,3.19.4-A79
+Drone-11,Customer 7,TMP Rev-B,Flight-QC,Failed,No Issue,532,2024-11-08,41,Employee 5,Pending,1,51,3.19.81-A99
+Drone-18,Customer 10,HoneyBadger,Flight-QC,Passed,Motor Failure,1275,2024-07-24,24,Employee 12,In Progress,0,89,3.19.81-A34
+Drone-2,Customer 4,XTENDER P5,Post-Plastic-QC,Failed,GPS Failure,943,2024-02-14,15,Employee 5,Pending,1,51,3.19.99-A88
+Drone-10,Customer 7,TMP Rev-B,Pre-Plastic-QC,Failed,Motor Failure,1675,2024-05-10,33,Employee 15,Pending,1,76,3.19.25-A38
+Drone-17,Customer 16,TMP Rev-B,Pre-Plastic-QC,Passed,Battery Issue,1947,2024-06-20,45,Employee 10,Completed,1,73,3.19.95-A35
+Drone-12,Customer 1,PSIO-XTENDER V3P4,Flight-QC,Failed,Motor Failure,1765,2024-08-01,21,Employee 9,Completed,0,92,3.19.71-A10
+Drone-4,Customer 8,HoneyBadger,Pre-Plastic-QC,Failed,Software Bug,539,2024-02-20,19,Employee 7,Completed,0,79,3.19.70-A48
+Drone-17,Customer 19,HoneyBadger,Post-Plastic-QC,Passed,Software Bug,1295,2024-03-14,12,Employee 17,Completed,0,65,3.19.25-A15
+Drone-13,Customer 14,PSIO-XTENDER V3P4,Pre-Plastic-QC,Failed,GPS Failure,1399,2024-01-26,36,Employee 4,Pending,1,80,3.19.7-A28
+Drone-18,Customer 4,TMP Rev-B,Flight-QC,Failed,Motor Failure,921,2024-02-21,20,Employee 19,In Progress,0,84,3.19.46-A82
+Drone-6,Customer 16,PSIO-XTENDER V3P4,Flight-QC,Passed,No Issue,1460,2024-08-17,12,Employee 6,Completed,1,59,3.19.61-A67
+Drone-2,Customer 16,HoneyBadger,Post-Plastic-QC,Failed,Battery Issue,301,2024-05-19,35,Employee 8,In Progress,1,59,3.19.36-A51
+Drone-6,Customer 8,PSIO-XTENDER V3P4,Flight-QC,Passed,GPS Failure,1099,2024-11-03,29,Employee 2,Pending,0,71,3.19.96-A87
+Drone-13,Customer 10,XTENDER P5,Post-Plastic-QC,Failed,Software Bug,1776,2024-10-11,25,Employee 9,Completed,1,89,3.19.95-A30
+Drone-10,Customer 13,HoneyBadger,Post-Plastic-QC,Failed,Software Bug,1830,2024-03-12,14,Employee 2,Completed,1,92,3.19.6-A72
+Drone-7,Customer 20,PSIO-XTENDER V3P4,Flight-QC,Passed,GPS Failure,705,2024-09-05,27,Employee 20,In Progress,0,90,3.19.53-A64
+Drone-11,Customer 8,TMP Rev-B,Pre-Plastic-QC,Failed,Battery Issue,1517,2024-04-30,2,Employee 20,Completed,0,61,3.19.35-A49
+Drone-6,Customer 17,XTENDER P5,Post-Plastic-QC,Passed,GPS Failure,1945,2024-12-14,6,Employee 9,Completed,1,79,3.19.85-A68
+Drone-17,Customer 13,XTENDER P5,Flight-QC,Passed,Battery Issue,374,2024-01-12,24,Employee 12,Completed,1,93,3.19.41-A42
+Drone-10,Customer 18,PSIO-XTENDER V3P4,Pre-Plastic-QC,Passed,Motor Failure,144,2024-12-08,22,Employee 17,Completed,1,64,3.19.88-A59
+Drone-12,Customer 16,TMP Rev-B,Post-Plastic-QC,Passed,Battery Issue,1917,2024-01-04,18,Employee 13,Pending,0,51,3.19.73-A96
+Drone-13,Customer 12,TMP Rev-B,Pre-Plastic-QC,Failed,Motor Failure,413,2024-09-21,19,Employee 12,Pending,0,74,3.19.74-A54
+Drone-7,Customer 10,PSIO-XTENDER V3P4,Post-Plastic-QC,Passed,Motor Failure,372,2024-04-05,35,Employee 20,In Progress,0,94,3.19.81-A77
+Drone-5,Customer 9,PSIO-XTENDER V3P4,Post-Plastic-QC,Passed,Software Bug,275,2024-08-18,1,Employee 13,Completed,0,65,3.19.9-A49
+Drone-12,Customer 1,TMP Rev-B,Pre-Plastic-QC,Failed,Motor Failure,1223,2024-07-27,2,Employee 11,In Progress,0,89,3.19.44-A26
+Drone-6,Customer 8,XTENDER P5,Post-Plastic-QC,Failed,No Issue,925,2024-09-22,32,Employee 9,Completed,1,67,3.19.2-A87
+Drone-2,Customer 15,TMP Rev-B,Flight-QC,Passed,Software Bug,811,2024-10-21,10,Employee 18,In Progress,0,84,3.19.89-A62
+Drone-4,Customer 6,TMP Rev-B,Post-Plastic-QC,Passed,Software Bug,692,2024-06-13,29,Employee 17,Completed,1,64,3.19.75-A90
+Drone-12,Customer 11,TMP Rev-B,Pre-Plastic-QC,Passed,Software Bug,1637,2024-05-07,12,Employee 6,Completed,1,76,3.19.57-A44
+Drone-13,Customer 18,XTENDER P5,Pre-Plastic-QC,Failed,Software Bug,374,2024-05-11,37,Employee 17,In Progress,0,89,3.19.49-A49
+Drone-15,Customer 14,PSIO-XTENDER V3P4,Flight-QC,Passed,GPS Failure,838,2024-07-17,17,Employee 13,In Progress,1,55,3.19.86-A28
+Drone-5,Customer 1,XTENDER P5,Flight-QC,Passed,Motor Failure,207,2024-12-30,13,Employee 16,In Progress,0,72,3.19.81-A75
+Drone-2,Customer 4,HoneyBadger,Pre-Plastic-QC,Passed,GPS Failure,1642,2024-01-17,6,Employee 5,In Progress,0,95,3.19.85-A47
+Drone-5,Customer 5,PSIO-XTENDER V3P4,Post-Plastic-QC,Passed,No Issue,391,2024-03-06,11,Employee 14,In Progress,1,85,3.19.42-A54
+Drone-10,Customer 4,HoneyBadger,Post-Plastic-QC,Passed,Software Bug,931,2024-11-28,10,Employee 4,Completed,0,66,3.19.42-A46
+Drone-9,Customer 4,TMP Rev-B,Pre-Plastic-QC,Passed,No Issue,327,2024-01-02,23,Employee 14,Completed,0,66,3.19.4-A73
+Drone-5,Customer 9,HoneyBadger,Flight-QC,Failed,Motor Failure,1706,2024-12-28,21,Employee 8,In Progress,0,86,3.19.77-A51
+Drone-8,Customer 11,TMP Rev-B,Post-Plastic-QC,Failed,GPS Failure,1254,2024-12-21,13,Employee 13,Pending,1,71,3.19.72-A78
+Drone-16,Customer 6,TMP Rev-B,Pre-Plastic-QC,Passed,Motor Failure,1743,2024-07-11,31,Employee 15,Completed,1,57,3.19.47-A20
+Drone-15,Customer 16,HoneyBadger,Post-Plastic-QC,Failed,Motor Failure,350,2024-07-31,3,Employee 6,Completed,0,100,3.19.18-A67
+Drone-6,Customer 19,PSIO-XTENDER V3P4,Pre-Plastic-QC,Failed,No Issue,1807,2024-05-25,48,Employee 11,Pending,0,74,3.19.13-A81
+Drone-15,Customer 15,TMP Rev-B,Pre-Plastic-QC,Passed,No Issue,982,2024-01-24,2,Employee 15,In Progress,0,58,3.19.99-A63
+Drone-7,Customer 15,XTENDER P5,Post-Plastic-QC,Passed,GPS Failure,595,2024-03-07,7,Employee 15,Pending,1,96,3.19.20-A90
+Drone-20,Customer 13,PSIO-XTENDER V3P4,Post-Plastic-QC,Passed,GPS Failure,1942,2024-02-09,47,Employee 1,In Progress,1,55,3.19.30-A50
+Drone-17,Customer 11,HoneyBadger,Post-Plastic-QC,Passed,GPS Failure,333,2024-04-04,22,Employee 15,Completed,1,91,3.19.72-A26
+Drone-7,Customer 8,TMP Rev-B,Pre-Plastic-QC,Failed,GPS Failure,1407,2024-12-19,16,Employee 8,Pending,0,94,3.19.72-A21
+Drone-11,Customer 15,PSIO-XTENDER V3P4,Post-Plastic-QC,Passed,GPS Failure,1487,2024-08-06,28,Employee 5,In Progress,0,90,3.19.38-A88
+Drone-6,Customer 3,XTENDER P5,Flight-QC,Failed,Motor Failure,1740,2024-08-10,31,Employee 19,Pending,0,78,3.19.82-A15
+Drone-7,Customer 11,TMP Rev-B,Flight-QC,Failed,GPS Failure,1477,2024-06-20,19,Employee 15,Completed,0,84,3.19.77-A16
+Drone-20,Customer 11,HoneyBadger,Post-Plastic-QC,Passed,Motor Failure,1236,2024-01-22,34,Employee 5,In Progress,1,63,3.19.90-A90
+Drone-6,Customer 8,TMP Rev-B,Pre-Plastic-QC,Failed,GPS Failure,1936,2024-05-02,39,Employee 12,Pending,0,95,3.19.67-A32
+Drone-19,Customer 3,PSIO-XTENDER V3P4,Post-Plastic-QC,Failed,Battery Issue,786,2024-03-02,23,Employee 7,In Progress,1,83,3.19.47-A65
+Drone-14,Customer 3,TMP Rev-B,Flight-QC,Failed,Motor Failure,727,2024-10-22,35,Employee 7,Pending,1,76,3.19.5-A41
+Drone-3,Customer 19,XTENDER P5,Post-Plastic-QC,Passed,Motor Failure,1587,2024-09-30,46,Employee 5,In Progress,1,88,3.19.16-A96
+Drone-14,Customer 13,HoneyBadger,Post-Plastic-QC,Failed,GPS Failure,416,2024-04-15,19,Employee 18,In Progress,1,91,3.19.16-A89
+Drone-20,Customer 14,HoneyBadger,Post-Plastic-QC,Passed,Battery Issue,1134,2024-06-20,35,Employee 13,Completed,0,67,3.19.5-A15
+Drone-6,Customer 10,HoneyBadger,Flight-QC,Passed,GPS Failure,1441,2024-03-26,35,Employee 3,Completed,1,89,3.19.42-A59
+Drone-19,Customer 17,XTENDER P5,Post-Plastic-QC,Failed,GPS Failure,1905,2024-11-12,40,Employee 6,Pending,1,73,3.19.20-A35
+Drone-7,Customer 12,XTENDER P5,Pre-Plastic-QC,Passed,Battery Issue,159,2024-11-23,42,Employee 18,In Progress,0,52,3.19.55-A77
+Drone-13,Customer 18,TMP Rev-B,Post-Plastic-QC,Passed,GPS Failure,1520,2024-03-09,30,Employee 17,Pending,0,68,3.19.22-A86
+Drone-6,Customer 16,XTENDER P5,Pre-Plastic-QC,Failed,GPS Failure,1462,2024-05-24,25,Employee 14,Completed,0,50,3.19.70-A66
+Drone-16,Customer 17,PSIO-XTENDER V3P4,Flight-QC,Passed,Motor Failure,1619,2024-08-29,29,Employee 5,In Progress,0,75,3.19.3-A99
+Drone-18,Customer 16,PSIO-XTENDER V3P4,Flight-QC,Passed,Motor Failure,1244,2024-07-28,3,Employee 16,In Progress,0,56,3.19.88-A55
+Drone-13,Customer 16,TMP Rev-B,Pre-Plastic-QC,Passed,Motor Failure,852,2024-03-10,42,Employee 4,Pending,0,52,3.19.56-A89
+Drone-16,Customer 20,TMP Rev-B,Flight-QC,Failed,Battery Issue,1663,2024-02-26,21,Employee 11,In Progress,0,91,3.19.37-A91
+Drone-1,Customer 18,PSIO-XTENDER V3P4,Pre-Plastic-QC,Failed,Battery Issue,960,2024-07-15,10,Employee 7,In Progress,0,77,3.19.70-A31
+Drone-13,Customer 19,XTENDER P5,Flight-QC,Failed,Software Bug,843,2024-03-15,3,Employee 12,Pending,1,96,3.19.74-A95
+Drone-11,Customer 19,XTENDER P5,Flight-QC,Passed,GPS Failure,1453,2024-11-13,13,Employee 11,Completed,0,97,3.19.16-A81
+Drone-20,Customer 20,PSIO-XTENDER V3P4,Pre-Plastic-QC,Passed,GPS Failure,384,2024-01-13,46,Employee 8,Completed,0,51,3.19.64-A63
+Drone-19,Customer 20,HoneyBadger,Post-Plastic-QC,Passed,No Issue,1892,2024-05-25,10,Employee 1,Pending,0,95,3.19.75-A44
+Drone-8,Customer 19,HoneyBadger,Post-Plastic-QC,Passed,Software Bug,1015,2024-01-11,34,Employee 17,Completed,1,63,3.19.86-A58
+Drone-5,Customer 6,TMP Rev-B,Post-Plastic-QC,Failed,Software Bug,637,2024-05-03,31,Employee 10,Pending,1,90,3.19.21-A96
+Drone-9,Customer 17,TMP Rev-B,Post-Plastic-QC,Failed,GPS Failure,1846,2024-04-12,39,Employee 17,Pending,1,97,3.19.57-A73
+Drone-4,Customer 18,PSIO-XTENDER V3P4,Flight-QC,Passed,Battery Issue,549,2024-08-14,33,Employee 10,Completed,1,97,3.19.6-A70
+Drone-15,Customer 14,PSIO-XTENDER V3P4,Post-Plastic-QC,Passed,Battery Issue,719,2024-05-16,8,Employee 20,In Progress,0,81,3.19.47-A87
+Drone-20,Customer 4,PSIO-XTENDER V3P4,Post-Plastic-QC,Failed,No Issue,236,2024-05-17,44,Employee 9,Completed,0,53,3.19.9-A19
+Drone-9,Customer 17,HoneyBadger,Post-Plastic-QC,Failed,GPS Failure,568,2024-06-07,40,Employee 20,Pending,0,98,3.19.88-A35
+Drone-19,Customer 19,HoneyBadger,Flight-QC,Failed,Motor Failure,1469,2024-07-01,46,Employee 11,Pending,1,53,3.19.37-A60
+Drone-13,Customer 4,XTENDER P5,Post-Plastic-QC,Passed,Battery Issue,1463,2024-12-23,41,Employee 5,Pending,1,66,3.19.77-A92
+Drone-16,Customer 15,HoneyBadger,Post-Plastic-QC,Passed,No Issue,410,2024-10-02,37,Employee 15,Pending,1,66,3.19.82-A94
+Drone-16,Customer 8,PSIO-XTENDER V3P4,Pre-Plastic-QC,Failed,Software Bug,864,2024-02-28,13,Employee 10,Pending,1,65,3.19.26-A96
+Drone-12,Customer 13,PSIO-XTENDER V3P4,Flight-QC,Passed,Motor Failure,109,2024-06-30,19,Employee 8,Pending,1,55,3.19.41-A62
+Drone-2,Customer 10,HoneyBadger,Post-Plastic-QC,Failed,Battery Issue,638,2024-04-22,10,Employee 16,Completed,1,58,3.19.88-A41
+Drone-14,Customer 11,XTENDER P5,Flight-QC,Failed,GPS Failure,1069,2024-07-09,29,Employee 9,In Progress,0,81,3.19.44-A34
+Drone-19,Customer 6,HoneyBadger,Post-Plastic-QC,Passed,No Issue,524,2024-10-03,24,Employee 4,Completed,1,97,3.19.26-A45
+Drone-6,Customer 1,XTENDER P5,Post-Plastic-QC,Failed,Battery Issue,1054,2024-01-08,11,Employee 2,In Progress,1,75,3.19.90-A90
+Drone-7,Customer 11,TMP Rev-B,Flight-QC,Passed,No Issue,1245,2024-03-04,27,Employee 6,Pending,1,52,3.19.66-A26
+Drone-12,Customer 2,TMP Rev-B,Pre-Plastic-QC,Failed,No Issue,1815,2024-09-30,8,Employee 11,Pending,0,60,3.19.79-A14
+Drone-17,Customer 10,PSIO-XTENDER V3P4,Post-Plastic-QC,Passed,GPS Failure,343,2024-11-26,34,Employee 13,Pending,1,95,3.19.64-A24
+Drone-20,Customer 19,XTENDER P5,Pre-Plastic-QC,Failed,Battery Issue,1933,2024-07-28,45,Employee 3,In Progress,1,81,3.19.12-A16
+Drone-9,Customer 5,XTENDER P5,Flight-QC,Failed,GPS Failure,1787,2024-05-27,14,Employee 1,In Progress,1,95,3.19.80-A86
+Drone-13,Customer 4,TMP Rev-B,Post-Plastic-QC,Failed,Motor Failure,221,2024-12-28,5,Employee 11,Completed,0,93,3.19.33-A34
+Drone-19,Customer 11,HoneyBadger,Post-Plastic-QC,Passed,GPS Failure,129,2024-01-31,40,Employee 16,Completed,1,86,3.19.14-A91
+Drone-19,Customer 11,PSIO-XTENDER V3P4,Pre-Plastic-QC,Failed,Motor Failure,1950,2024-01-14,36,Employee 18,Completed,1,50,3.19.62-A91
+Drone-5,Customer 13,TMP Rev-B,Post-Plastic-QC,Passed,Battery Issue,355,2024-09-20,2,Employee 7,In Progress,1,61,3.19.20-A89
+Drone-15,Customer 15,HoneyBadger,Post-Plastic-QC,Passed,GPS Failure,521,2024-08-14,10,Employee 16,In Progress,1,75,3.19.98-A83
+Drone-16,Customer 8,PSIO-XTENDER V3P4,Post-Plastic-QC,Passed,Software Bug,669,2024-12-13,25,Employee 19,Pending,1,82,3.19.46-A49
+Drone-13,Customer 6,TMP Rev-B,Post-Plastic-QC,Passed,Software Bug,1761,2024-04-20,10,Employee 18,In Progress,0,66,3.19.2-A47
+Drone-2,Customer 1,TMP Rev-B,Flight-QC,Passed,Battery Issue,462,2024-06-05,25,Employee 13,Pending,0,86,3.19.70-A43
+Drone-16,Customer 20,PSIO-XTENDER V3P4,Pre-Plastic-QC,Failed,GPS Failure,829,2024-11-11,37,Employee 6,In Progress,1,99,3.19.11-A76
+Drone-20,Customer 16,XTENDER P5,Post-Plastic-QC,Passed,Battery Issue,561,2024-06-23,18,Employee 8,Completed,0,64,3.19.89-A30
+Drone-12,Customer 11,XTENDER P5,Post-Plastic-QC,Failed,GPS Failure,1774,2024-04-11,18,Employee 12,Completed,1,83,3.19.37-A75
+Drone-11,Customer 5,XTENDER P5,Flight-QC,Passed,GPS Failure,1118,2024-05-26,38,Employee 4,Pending,1,56,3.19.78-A54
+Drone-11,Customer 12,TMP Rev-B,Pre-Plastic-QC,Passed,Battery Issue,1456,2024-11-06,16,Employee 15,In Progress,1,73,3.19.62-A70
+Drone-12,Customer 16,XTENDER P5,Pre-Plastic-QC,Failed,Software Bug,616,2024-03-25,3,Employee 11,Pending,0,64,3.19.91-A99
+Drone-19,Customer 18,XTENDER P5,Pre-Plastic-QC,Passed,Motor Failure,1512,2024-07-05,38,Employee 8,Pending,0,95,3.19.41-A10
+Drone-20,Customer 3,HoneyBadger,Flight-QC,Passed,Battery Issue,1931,2024-01-30,44,Employee 5,Pending,1,71,3.19.15-A29
+Drone-16,Customer 4,HoneyBadger,Post-Plastic-QC,Passed,Battery Issue,487,2024-04-22,20,Employee 13,Completed,0,57,3.19.29-A11
+Drone-18,Customer 19,XTENDER P5,Post-Plastic-QC,Passed,GPS Failure,1930,2024-10-02,45,Employee 12,In Progress,1,60,3.19.68-A84
+Drone-15,Customer 8,TMP Rev-B,Pre-Plastic-QC,Passed,Software Bug,249,2024-05-22,26,Employee 17,Completed,0,98,3.19.69-A94
+Drone-17,Customer 15,HoneyBadger,Post-Plastic-QC,Passed,No Issue,284,2024-07-11,10,Employee 16,Completed,1,83,3.19.67-A86
+Drone-1,Customer 7,PSIO-XTENDER V3P4,Post-Plastic-QC,Failed,GPS Failure,1860,2024-09-13,43,Employee 20,Completed,0,86,3.19.63-A74
+Drone-10,Customer 12,HoneyBadger,Pre-Plastic-QC,Failed,No Issue,1706,2024-11-14,46,Employee 6,In Progress,0,90,3.19.9-A28
+Drone-8,Customer 15,TMP Rev-B,Pre-Plastic-QC,Passed,Battery Issue,1586,2024-11-03,30,Employee 13,In Progress,1,57,3.19.30-A85
+Drone-8,Customer 16,XTENDER P5,Pre-Plastic-QC,Failed,Battery Issue,390,2024-04-04,20,Employee 8,Completed,1,65,3.19.25-A57
+Drone-1,Customer 20,HoneyBadger,Pre-Plastic-QC,Passed,Battery Issue,1984,2024-10-24,4,Employee 7,Completed,0,79,3.19.66-A76
+Drone-7,Customer 11,HoneyBadger,Pre-Plastic-QC,Passed,Battery Issue,1441,2024-03-12,9,Employee 10,Pending,1,76,3.19.49-A40
+Drone-4,Customer 4,HoneyBadger,Post-Plastic-QC,Failed,GPS Failure,1550,2024-10-12,3,Employee 7,Completed,0,81,3.19.97-A82
+Drone-14,Customer 16,TMP Rev-B,Post-Plastic-QC,Passed,No Issue,271,2024-08-24,27,Employee 10,Completed,0,50,3.19.35-A78
+Drone-2,Customer 17,TMP Rev-B,Post-Plastic-QC,Failed,Battery Issue,732,2024-05-26,5,Employee 19,Pending,1,50,3.19.50-A34
+Drone-11,Customer 11,TMP Rev-B,Flight-QC,Passed,Software Bug,1852,2024-02-20,23,Employee 9,Completed,1,86,3.19.15-A40
+Drone-1,Customer 18,TMP Rev-B,Flight-QC,Passed,Software Bug,587,2024-08-15,30,Employee 18,Completed,0,97,3.19.66-A85
+Drone-7,Customer 17,HoneyBadger,Pre-Plastic-QC,Failed,Battery Issue,600,2024-12-16,29,Employee 9,In Progress,0,75,3.19.15-A83
+Drone-6,Customer 3,HoneyBadger,Post-Plastic-QC,Passed,Motor Failure,1320,2024-11-16,29,Employee 3,Completed,0,73,3.19.91-A12
+Drone-1,Customer 6,TMP Rev-B,Post-Plastic-QC,Failed,Battery Issue,889,2024-05-27,24,Employee 6,In Progress,1,81,3.19.51-A45
+Drone-2,Customer 1,XTENDER P5,Pre-Plastic-QC,Passed,No Issue,1911,2024-06-06,46,Employee 6,In Progress,0,98,3.19.98-A19
+Drone-2,Customer 11,TMP Rev-B,Flight-QC,Passed,No Issue,1222,2024-03-23,36,Employee 8,Pending,1,67,3.19.96-A83
+Drone-3,Customer 3,HoneyBadger,Flight-QC,Passed,No Issue,1963,2024-04-30,3,Employee 3,Completed,1,83,3.19.64-A46
+Drone-7,Customer 5,PSIO-XTENDER V3P4,Pre-Plastic-QC,Failed,No Issue,1371,2024-09-20,42,Employee 16,In Progress,1,52,3.19.13-A96
+Drone-17,Customer 2,PSIO-XTENDER V3P4,Pre-Plastic-QC,Passed,Battery Issue,642,2024-10-31,29,Employee 13,In Progress,1,84,3.19.27-A18
+Drone-14,Customer 20,HoneyBadger,Flight-QC,Failed,Software Bug,249,2024-12-10,46,Employee 8,Pending,1,86,3.19.48-A81
+Drone-12,Customer 20,HoneyBadger,Post-Plastic-QC,Passed,No Issue,441,2024-12-13,44,Employee 14,In Progress,1,77,3.19.91-A47
+Drone-10,Customer 4,PSIO-XTENDER V3P4,Post-Plastic-QC,Passed,Motor Failure,1391,2024-10-17,34,Employee 4,Pending,1,94,3.19.24-A77
+Drone-20,Customer 3,TMP Rev-B,Flight-QC,Failed,Software Bug,758,2024-02-08,28,Employee 20,In Progress,0,93,3.19.18-A51
+Drone-10,Customer 3,TMP Rev-B,Flight-QC,Failed,GPS Failure,116,2024-08-30,28,Employee 16,Completed,1,53,3.19.80-A89
+Drone-10,Customer 19,XTENDER P5,Flight-QC,Failed,Battery Issue,1838,2024-07-21,32,Employee 14,Completed,0,61,3.19.16-A14
+Drone-7,Customer 14,PSIO-XTENDER V3P4,Post-Plastic-QC,Passed,Battery Issue,1891,2024-06-01,27,Employee 13,Pending,0,71,3.19.19-A54
+Drone-13,Customer 9,HoneyBadger,Flight-QC,Failed,Motor Failure,576,2024-03-24,47,Employee 6,Completed,0,54,3.19.70-A42
+Drone-13,Customer 4,XTENDER P5,Post-Plastic-QC,Passed,No Issue,1954,2024-10-16,7,Employee 9,Completed,1,64,3.19.37-A13
+Drone-19,Customer 3,PSIO-XTENDER V3P4,Flight-QC,Passed,Motor Failure,856,2024-07-27,10,Employee 1,In Progress,1,65,3.19.33-A67
+Drone-15,Customer 8,PSIO-XTENDER V3P4,Pre-Plastic-QC,Failed,Motor Failure,1786,2024-01-27,6,Employee 14,Pending,0,72,3.19.34-A43
+Drone-6,Customer 19,XTENDER P5,Pre-Plastic-QC,Passed,Software Bug,232,2024-09-19,41,Employee 5,Completed,0,57,3.19.42-A74
+Drone-19,Customer 19,XTENDER P5,Pre-Plastic-QC,Failed,Software Bug,912,2024-01-14,9,Employee 14,Pending,1,74,3.19.24-A76
+Drone-2,Customer 8,HoneyBadger,Flight-QC,Passed,Battery Issue,478,2024-10-16,28,Employee 5,Completed,0,71,3.19.89-A14
+Drone-17,Customer 4,HoneyBadger,Flight-QC,Passed,Motor Failure,1345,2024-11-04,6,Employee 13,Completed,1,60,3.19.9-A74
+Drone-4,Customer 4,XTENDER P5,Pre-Plastic-QC,Failed,Motor Failure,1992,2024-01-31,5,Employee 17,Completed,1,53,3.19.8-A49
+Drone-7,Customer 5,PSIO-XTENDER V3P4,Flight-QC,Failed,Battery Issue,1586,2024-12-09,31,Employee 5,In Progress,0,82,3.19.76-A17
+Drone-6,Customer 1,XTENDER P5,Post-Plastic-QC,Failed,Software Bug,833,2024-12-26,47,Employee 3,Completed,1,52,3.19.28-A96
+Drone-4,Customer 1,TMP Rev-B,Post-Plastic-QC,Passed,Battery Issue,573,2024-01-19,26,Employee 16,Completed,1,79,3.19.9-A83
+Drone-18,Customer 11,XTENDER P5,Flight-QC,Passed,Battery Issue,146,2024-09-02,20,Employee 4,Completed,1,82,3.19.47-A68
+Drone-5,Customer 20,PSIO-XTENDER V3P4,Pre-Plastic-QC,Passed,Motor Failure,155,2024-02-19,45,Employee 19,Pending,0,73,3.19.44-A35
+Drone-16,Customer 4,HoneyBadger,Post-Plastic-QC,Passed,Motor Failure,1913,2024-05-29,33,Employee 19,Completed,1,79,3.19.10-A97
+Drone-1,Customer 18,XTENDER P5,Flight-QC,Passed,Software Bug,1222,2024-09-20,31,Employee 14,In Progress,0,63,3.19.59-A60
+Drone-20,Customer 3,TMP Rev-B,Post-Plastic-QC,Failed,Motor Failure,1395,2024-06-11,19,Employee 4,Completed,0,72,3.19.59-A92
+Drone-15,Customer 3,TMP Rev-B,Flight-QC,Passed,Battery Issue,1041,2024-12-10,12,Employee 13,In Progress,0,74,3.19.21-A70
+Drone-5,Customer 15,TMP Rev-B,Post-Plastic-QC,Failed,Software Bug,1365,2024-02-28,45,Employee 4,Pending,1,78,3.19.2-A25
+Drone-12,Customer 3,XTENDER P5,Flight-QC,Failed,GPS Failure,496,2024-12-24,6,Employee 9,In Progress,0,66,3.19.52-A48
+Drone-19,Customer 14,TMP Rev-B,Flight-QC,Passed,GPS Failure,262,2024-05-09,48,Employee 20,Pending,0,68,3.19.73-A41
+Drone-7,Customer 18,XTENDER P5,Flight-QC,Passed,Battery Issue,1808,2024-06-15,43,Employee 19,Completed,1,54,3.19.33-A12
+Drone-1,Customer 13,PSIO-XTENDER V3P4,Flight-QC,Passed,Software Bug,1923,2024-03-09,9,Employee 10,Pending,1,90,3.19.69-A51
+Drone-11,Customer 8,HoneyBadger,Post-Plastic-QC,Failed,Software Bug,563,2024-06-23,16,Employee 2,Pending,0,55,3.19.26-A75
+Drone-5,Customer 10,HoneyBadger,Post-Plastic-QC,Passed,Battery Issue,115,2024-12-14,44,Employee 16,Pending,1,69,3.19.22-A46
+Drone-8,Customer 4,TMP Rev-B,Pre-Plastic-QC,Passed,GPS Failure,394,2024-05-27,24,Employee 6,Pending,1,98,3.19.19-A70
+Drone-11,Customer 13,XTENDER P5,Pre-Plastic-QC,Passed,No Issue,1552,2024-09-04,4,Employee 4,In Progress,1,52,3.19.28-A36
+Drone-4,Customer 15,XTENDER P5,Pre-Plastic-QC,Passed,Battery Issue,1831,2024-05-06,14,Employee 9,In Progress,0,96,3.19.18-A98
+Drone-13,Customer 13,PSIO-XTENDER V3P4,Pre-Plastic-QC,Failed,GPS Failure,1861,2024-05-12,31,Employee 5,Pending,0,80,3.19.59-A27
+Drone-17,Customer 9,XTENDER P5,Pre-Plastic-QC,Failed,Battery Issue,1111,2024-11-09,28,Employee 5,Completed,0,69,3.19.89-A81
+Drone-5,Customer 17,TMP Rev-B,Pre-Plastic-QC,Failed,Motor Failure,819,2024-07-12,7,Employee 11,Completed,1,99,3.19.81-A87
+Drone-11,Customer 12,XTENDER P5,Flight-QC,Passed,No Issue,871,2024-05-25,16,Employee 20,Completed,1,88,3.19.89-A75
+Drone-1,Customer 18,XTENDER P5,Post-Plastic-QC,Failed,No Issue,654,2024-08-23,8,Employee 15,In Progress,1,59,3.19.21-A76
+Drone-5,Customer 8,TMP Rev-B,Flight-QC,Failed,No Issue,1532,2024-09-07,26,Employee 8,Completed,0,92,3.19.73-A91
+Drone-13,Customer 20,XTENDER P5,Flight-QC,Passed,Motor Failure,836,2024-01-26,46,Employee 12,Pending,1,88,3.19.60-A81
+Drone-1,Customer 2,PSIO-XTENDER V3P4,Post-Plastic-QC,Passed,Motor Failure,144,2024-01-23,33,Employee 1,Pending,0,76,3.19.21-A74
+Drone-6,Customer 7,TMP Rev-B,Flight-QC,Failed,No Issue,1070,2024-05-16,9,Employee 9,Pending,1,55,3.19.27-A58
+Drone-7,Customer 17,XTENDER P5,Flight-QC,Passed,Software Bug,553,2024-04-28,22,Employee 1,Completed,0,64,3.19.34-A15
+Drone-18,Customer 15,XTENDER P5,Pre-Plastic-QC,Failed,GPS Failure,1167,2024-09-10,23,Employee 17,Completed,1,83,3.19.61-A65
+Drone-18,Customer 3,XTENDER P5,Flight-QC,Passed,Motor Failure,167,2024-03-28,2,Employee 13,In Progress,1,75,3.19.76-A28
+Drone-20,Customer 11,PSIO-XTENDER V3P4,Pre-Plastic-QC,Passed,Battery Issue,1498,2024-09-12,2,Employee 12,Completed,1,59,3.19.64-A64
+Drone-8,Customer 13,TMP Rev-B,Flight-QC,Failed,Software Bug,1846,2024-11-15,34,Employee 4,Pending,1,62,3.19.9-A36
+Drone-16,Customer 10,TMP Rev-B,Pre-Plastic-QC,Passed,Battery Issue,1623,2024-04-02,42,Employee 6,In Progress,1,74,3.19.6-A38
+Drone-2,Customer 5,TMP Rev-B,Flight-QC,Passed,GPS Failure,1594,2024-06-07,27,Employee 1,In Progress,0,50,3.19.84-A53
+Drone-4,Customer 11,XTENDER P5,Pre-Plastic-QC,Failed,Software Bug,890,2024-03-26,42,Employee 8,In Progress,0,96,3.19.20-A44
+Drone-2,Customer 13,XTENDER P5,Post-Plastic-QC,Failed,Motor Failure,429,2024-02-29,47,Employee 19,Completed,0,53,3.19.38-A33
+Drone-13,Customer 7,HoneyBadger,Flight-QC,Failed,Software Bug,730,2024-06-25,25,Employee 13,Pending,1,63,3.19.77-A10
+Drone-16,Customer 12,HoneyBadger,Pre-Plastic-QC,Passed,No Issue,1734,2024-10-21,36,Employee 4,Completed,0,100,3.19.36-A90
+Drone-19,Customer 16,XTENDER P5,Flight-QC,Failed,GPS Failure,1649,2024-06-15,15,Employee 4,Completed,1,67,3.19.58-A55
+Drone-7,Customer 12,HoneyBadger,Flight-QC,Passed,GPS Failure,172,2024-09-21,14,Employee 4,In Progress,1,63,3.19.17-A36
+Drone-12,Customer 19,HoneyBadger,Pre-Plastic-QC,Failed,No Issue,1193,2024-07-15,40,Employee 14,In Progress,1,74,3.19.37-A40
+Drone-6,Customer 3,TMP Rev-B,Pre-Plastic-QC,Failed,Software Bug,755,2024-08-12,9,Employee 15,Completed,0,75,3.19.72-A33
+Drone-20,Customer 10,HoneyBadger,Flight-QC,Failed,Software Bug,483,2024-07-08,7,Employee 10,Pending,0,100,3.19.75-A27
+Drone-11,Customer 16,XTENDER P5,Pre-Plastic-QC,Passed,Motor Failure,1087,2024-07-01,12,Employee 9,Pending,1,94,3.19.46-A46
+Drone-13,Customer 18,HoneyBadger,Flight-QC,Failed,GPS Failure,434,2024-08-23,14,Employee 9,Completed,1,83,3.19.94-A58
+Drone-5,Customer 1,XTENDER P5,Post-Plastic-QC,Failed,Motor Failure,980,2024-04-02,6,Employee 9,In Progress,0,88,3.19.80-A35
+Drone-14,Customer 6,HoneyBadger,Post-Plastic-QC,Failed,No Issue,1605,2024-12-15,36,Employee 5,Completed,0,90,3.19.75-A57
+Drone-11,Customer 20,HoneyBadger,Flight-QC,Failed,No Issue,409,2024-12-31,11,Employee 18,Pending,0,56,3.19.91-A63
+Drone-3,Customer 10,TMP Rev-B,Post-Plastic-QC,Passed,No Issue,1206,2024-10-14,4,Employee 5,Completed,0,75,3.19.68-A15
+Drone-20,Customer 2,PSIO-XTENDER V3P4,Flight-QC,Passed,No Issue,1650,2024-03-06,22,Employee 12,Completed,1,99,3.19.82-A67
+Drone-16,Customer 8,PSIO-XTENDER V3P4,Post-Plastic-QC,Passed,Motor Failure,1396,2024-07-13,8,Employee 13,Completed,1,68,3.19.51-A81
+Drone-15,Customer 5,XTENDER P5,Flight-QC,Failed,GPS Failure,1812,2024-04-02,12,Employee 14,Completed,0,97,3.19.22-A48
+Drone-19,Customer 9,HoneyBadger,Pre-Plastic-QC,Passed,Software Bug,924,2024-08-19,27,Employee 12,Pending,0,56,3.19.92-A47
+Drone-4,Customer 11,XTENDER P5,Post-Plastic-QC,Passed,Software Bug,1737,2024-06-19,24,Employee 2,In Progress,1,75,3.19.74-A71
+Drone-9,Customer 10,XTENDER P5,Post-Plastic-QC,Failed,Software Bug,1771,2024-04-16,44,Employee 2,Completed,1,78,3.19.37-A71
+Drone-7,Customer 20,PSIO-XTENDER V3P4,Pre-Plastic-QC,Passed,GPS Failure,717,2024-11-20,18,Employee 1,Completed,0,96,3.19.62-A27
+Drone-13,Customer 11,PSIO-XTENDER V3P4,Flight-QC,Failed,Battery Issue,1990,2024-05-24,11,Employee 20,Completed,0,61,3.19.79-A34
+Drone-2,Customer 7,TMP Rev-B,Flight-QC,Passed,Motor Failure,1813,2024-10-09,20,Employee 15,In Progress,1,71,3.19.42-A53
+Drone-10,Customer 13,XTENDER P5,Pre-Plastic-QC,Passed,Software Bug,1994,2024-12-18,39,Employee 15,Completed,0,83,3.19.56-A33
+Drone-2,Customer 8,HoneyBadger,Post-Plastic-QC,Failed,Battery Issue,1870,2024-04-27,23,Employee 5,Completed,0,92,3.19.61-A92
+Drone-12,Customer 9,TMP Rev-B,Flight-QC,Failed,Motor Failure,1325,2024-02-06,39,Employee 14,In Progress,0,66,3.19.55-A98
+Drone-7,Customer 7,TMP Rev-B,Flight-QC,Passed,No Issue,221,2024-12-29,33,Employee 7,In Progress,1,63,3.19.40-A50
+Drone-14,Customer 12,PSIO-XTENDER V3P4,Flight-QC,Passed,Battery Issue,1815,2024-11-11,48,Employee 17,In Progress,0,56,3.19.42-A43
+Drone-7,Customer 18,HoneyBadger,Pre-Plastic-QC,Passed,No Issue,1937,2024-09-29,47,Employee 16,Completed,1,89,3.19.19-A66
+Drone-18,Customer 9,HoneyBadger,Pre-Plastic-QC,Passed,Software Bug,1391,2024-08-05,10,Employee 2,In Progress,1,64,3.19.32-A11
+Drone-1,Customer 19,PSIO-XTENDER V3P4,Pre-Plastic-QC,Passed,No Issue,323,2024-12-06,39,Employee 6,In Progress,0,84,3.19.83-A55
+Drone-10,Customer 17,TMP Rev-B,Pre-Plastic-QC,Failed,GPS Failure,1524,2024-08-08,14,Employee 18,Pending,1,75,3.19.85-A39
+Drone-20,Customer 3,TMP Rev-B,Flight-QC,Passed,No Issue,1963,2024-08-21,45,Employee 13,Pending,1,52,3.19.93-A74
+Drone-7,Customer 12,HoneyBadger,Post-Plastic-QC,Passed,Battery Issue,920,2024-03-26,27,Employee 17,Pending,1,71,3.19.6-A48
+Drone-15,Customer 20,HoneyBadger,Post-Plastic-QC,Failed,Battery Issue,1615,2024-02-16,40,Employee 7,Completed,0,76,3.19.37-A33
+Drone-11,Customer 12,PSIO-XTENDER V3P4,Flight-QC,Passed,No Issue,839,2024-08-22,42,Employee 6,Completed,1,96,3.19.92-A43
+Drone-12,Customer 7,HoneyBadger,Flight-QC,Failed,Software Bug,1323,2024-08-12,25,Employee 8,Pending,1,100,3.19.47-A28
+Drone-8,Customer 7,HoneyBadger,Post-Plastic-QC,Failed,GPS Failure,780,2024-03-23,46,Employee 9,In Progress,1,75,3.19.54-A94
+Drone-2,Customer 16,HoneyBadger,Post-Plastic-QC,Passed,No Issue,576,2024-04-03,32,Employee 20,Completed,0,96,3.19.38-A28
+Drone-4,Customer 19,XTENDER P5,Flight-QC,Failed,Software Bug,906,2024-12-26,10,Employee 11,Completed,0,51,3.19.58-A21
+Drone-10,Customer 9,TMP Rev-B,Pre-Plastic-QC,Failed,No Issue,1009,2024-04-24,38,Employee 20,Completed,1,73,3.19.46-A69
+Drone-8,Customer 19,XTENDER P5,Flight-QC,Passed,GPS Failure,405,2024-11-19,2,Employee 18,In Progress,0,51,3.19.62-A44
+Drone-3,Customer 2,HoneyBadger,Flight-QC,Passed,Battery Issue,681,2024-01-07,30,Employee 4,Completed,1,89,3.19.71-A52
+Drone-16,Customer 15,HoneyBadger,Pre-Plastic-QC,Failed,GPS Failure,1238,2024-08-26,44,Employee 5,In Progress,1,58,3.19.55-A61
+Drone-1,Customer 6,HoneyBadger,Pre-Plastic-QC,Passed,No Issue,1845,2024-09-04,31,Employee 15,In Progress,0,83,3.19.39-A68
+Drone-20,Customer 14,XTENDER P5,Pre-Plastic-QC,Failed,Battery Issue,285,2024-07-04,14,Employee 13,Pending,1,59,3.19.15-A71
+Drone-12,Customer 5,TMP Rev-B,Post-Plastic-QC,Passed,Battery Issue,519,2024-05-17,37,Employee 18,In Progress,0,100,3.19.41-A14
+Drone-6,Customer 9,HoneyBadger,Post-Plastic-QC,Passed,Software Bug,844,2024-08-20,30,Employee 14,In Progress,1,88,3.19.17-A94
+Drone-14,Customer 18,TMP Rev-B,Post-Plastic-QC,Passed,Software Bug,1618,2024-09-13,26,Employee 15,Pending,1,86,3.19.45-A27
+Drone-20,Customer 12,TMP Rev-B,Flight-QC,Failed,GPS Failure,837,2024-03-21,30,Employee 9,In Progress,1,82,3.19.62-A98
+Drone-4,Customer 20,TMP Rev-B,Pre-Plastic-QC,Passed,GPS Failure,569,2024-10-24,36,Employee 1,In Progress,0,53,3.19.30-A86
+Drone-19,Customer 10,XTENDER P5,Flight-QC,Failed,Motor Failure,1417,2024-07-24,2,Employee 19,In Progress,1,95,3.19.58-A41
+Drone-10,Customer 10,XTENDER P5,Pre-Plastic-QC,Failed,Battery Issue,104,2024-12-18,14,Employee 13,In Progress,0,62,3.19.29-A62
+Drone-7,Customer 5,TMP Rev-B,Post-Plastic-QC,Failed,Motor Failure,109,2024-03-26,5,Employee 19,Pending,0,81,3.19.95-A99
+Drone-10,Customer 7,HoneyBadger,Post-Plastic-QC,Failed,GPS Failure,1041,2024-06-19,4,Employee 17,Pending,0,99,3.19.7-A40
+Drone-18,Customer 3,HoneyBadger,Pre-Plastic-QC,Passed,No Issue,1841,2024-01-11,37,Employee 6,Completed,0,57,3.19.60-A50
+Drone-2,Customer 10,XTENDER P5,Post-Plastic-QC,Passed,Battery Issue,150,2024-05-31,45,Employee 20,In Progress,1,96,3.19.80-A90
+Drone-1,Customer 16,HoneyBadger,Flight-QC,Passed,Software Bug,754,2024-10-28,4,Employee 14,Completed,0,63,3.19.84-A77
+Drone-16,Customer 10,HoneyBadger,Pre-Plastic-QC,Failed,No Issue,502,2024-10-22,16,Employee 6,In Progress,1,89,3.19.53-A20
+Drone-4,Customer 5,TMP Rev-B,Pre-Plastic-QC,Failed,No Issue,1348,2024-10-10,14,Employee 17,Completed,0,54,3.19.25-A54
+Drone-4,Customer 8,PSIO-XTENDER V3P4,Pre-Plastic-QC,Failed,GPS Failure,361,2024-08-05,6,Employee 3,In Progress,1,57,3.19.92-A21
+Drone-15,Customer 14,PSIO-XTENDER V3P4,Post-Plastic-QC,Passed,Software Bug,1754,2024-01-27,31,Employee 17,In Progress,0,60,3.19.70-A78
+Drone-8,Customer 2,HoneyBadger,Post-Plastic-QC,Passed,Motor Failure,705,2024-08-22,27,Employee 6,Pending,0,64,3.19.66-A21
+Drone-6,Customer 5,TMP Rev-B,Pre-Plastic-QC,Failed,Battery Issue,204,2024-02-22,20,Employee 14,In Progress,0,97,3.19.82-A10
+Drone-20,Customer 17,XTENDER P5,Post-Plastic-QC,Passed,Software Bug,1419,2024-10-17,32,Employee 5,Completed,0,67,3.19.41-A31
+Drone-16,Customer 18,PSIO-XTENDER V3P4,Pre-Plastic-QC,Failed,Battery Issue,1207,2024-08-08,7,Employee 11,In Progress,1,72,3.19.41-A86
+Drone-14,Customer 16,PSIO-XTENDER V3P4,Flight-QC,Failed,GPS Failure,1808,2024-10-10,45,Employee 1,Completed,1,97,3.19.29-A95
+Drone-12,Customer 19,HoneyBadger,Flight-QC,Passed,GPS Failure,1748,2024-01-18,32,Employee 11,Completed,1,65,3.19.38-A21
+Drone-16,Customer 5,TMP Rev-B,Pre-Plastic-QC,Passed,Battery Issue,351,2024-01-08,12,Employee 15,In Progress,1,72,3.19.74-A63
+Drone-12,Customer 4,TMP Rev-B,Flight-QC,Passed,GPS Failure,1594,2024-06-02,42,Employee 4,Pending,1,58,3.19.93-A76
+Drone-6,Customer 11,PSIO-XTENDER V3P4,Post-Plastic-QC,Failed,Battery Issue,304,2024-02-13,24,Employee 6,In Progress,0,94,3.19.68-A23
+Drone-7,Customer 6,TMP Rev-B,Pre-Plastic-QC,Passed,GPS Failure,1248,2024-05-22,1,Employee 4,In Progress,1,51,3.19.51-A31
+Drone-9,Customer 5,TMP Rev-B,Post-Plastic-QC,Failed,Motor Failure,654,2024-07-07,48,Employee 7,Pending,0,98,3.19.39-A96
+Drone-12,Customer 4,HoneyBadger,Pre-Plastic-QC,Passed,Motor Failure,542,2024-11-18,42,Employee 7,Pending,1,96,3.19.21-A60
+Drone-14,Customer 11,HoneyBadger,Post-Plastic-QC,Failed,No Issue,1380,2024-11-22,29,Employee 9,In Progress,1,60,3.19.69-A18
+Drone-7,Customer 16,TMP Rev-B,Post-Plastic-QC,Passed,Software Bug,850,2024-05-19,47,Employee 7,In Progress,1,80,3.19.51-A62
+Drone-7,Customer 15,HoneyBadger,Pre-Plastic-QC,Failed,Battery Issue,285,2024-02-19,43,Employee 7,In Progress,0,87,3.19.91-A88
+Drone-11,Customer 6,TMP Rev-B,Post-Plastic-QC,Failed,Battery Issue,1240,2024-06-15,25,Employee 9,Completed,0,53,3.19.43-A18
+Drone-13,Customer 14,HoneyBadger,Post-Plastic-QC,Failed,No Issue,803,2024-12-16,25,Employee 8,Completed,0,86,3.19.71-A12
+Drone-8,Customer 2,XTENDER P5,Pre-Plastic-QC,Failed,Software Bug,1880,2024-11-30,33,Employee 17,In Progress,1,92,3.19.45-A73
+Drone-14,Customer 14,HoneyBadger,Flight-QC,Failed,Motor Failure,900,2024-03-06,7,Employee 7,In Progress,1,98,3.19.91-A95
+Drone-16,Customer 3,PSIO-XTENDER V3P4,Post-Plastic-QC,Passed,Motor Failure,134,2024-12-20,37,Employee 19,Pending,1,88,3.19.98-A14
